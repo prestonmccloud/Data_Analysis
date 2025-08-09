@@ -1,6 +1,6 @@
 # This will show how to find the top 3 sales days per product category in pandas and in sql
 import pandas as pd
-retail_sales = pd.read_csv("C:\Users\prest\OneDrive\Documents\Portfolio\retail_sales_dataset.csv")
+retail_sales = pd.read_csv("retail_sales_dataset.csv")
 
 # Preview data
 retail_sales.head()
